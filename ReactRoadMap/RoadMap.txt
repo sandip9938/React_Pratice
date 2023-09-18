@@ -1,0 +1,48 @@
+/*
++++++++REACT ROADMAP+++++++
+
+
+Why To Learn React ?
+-Hype,Job,Tranding,Build UI
+-Makes Easy to manage & build complete Frontend Devlopment.
+
+When Shouild Learn React ?
+-After Mastering In JS
+-Most project is Dont need in Intial Phase.
+
+Why react Was Created ?
+-Facebook's internal Project And Ghost message Problem.
+-React was created for building User Interface only not For Building Backend or Server Side Application.
+-It has a very small size of library and it can be used with any other framework like AngularJS etc..
+-It uses Virtual DOM which makes the application fast.
+-It provides many features that are required by developers.
+-Its easy to learn.
+
+
+React learning Process-:
+-Go in depth
+and another
+-By Makng Project 
+
+
+Topic to learn React -:
+-Core react
+-Component
+-props
+-Hooks
+-JSX
+
+
+Additional Addon to React-:
+-Router
+-State Management
+-Class Based Component
+-BASS App
+
+
+
+After React-:
+-Next Js (Server side Rendering)
+-GatsbyJs(Static Site Generator)
+
+*/
