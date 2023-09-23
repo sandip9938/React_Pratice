@@ -1,0 +1,45 @@
+.maini {
+  margin: 100px;
+}
+.contacthead {
+  margin-bottom: 30px;
+}
+.contacthead h1 {
+  font-size: 30px;
+}
+.sec {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+button {
+  margin: 30px;
+  font-size: 12px;
+  font-weight: 500;
+  border-radius: 10px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+input {
+  display: flex;
+  flex-direction: row;
+  margin: 5px;
+  border-radius: 5px;
+  border: 2px solid pink;
+  outline: none;
+  width: 500px;
+  cursor: pointer;
+}
+.right img {
+  height: 300px;
+  border-radius: 10px;
+  border: 40px solid pink;
+}
+span {
+  color: palevioletred;
+}
+button:hover {
+  background-color: palevioletred;
+  color: black;
+}
